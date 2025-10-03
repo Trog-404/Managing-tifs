@@ -1,0 +1,4 @@
+numpy
+ciff
+PIL
+matplotlib
