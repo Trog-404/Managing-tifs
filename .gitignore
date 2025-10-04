@@ -69,3 +69,4 @@ env
 # Output files
 
 add_metadata/outputs/*
+!add_metadata/outputs/.gitkeep
