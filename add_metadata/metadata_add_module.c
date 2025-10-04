@@ -32,6 +32,5 @@ int write_custom_tag(const char* filename, ushort tag_code, const char* tag_name
     }
 
     TIFFClose(tif);
-    printf("Tag custom scritto in %s con valore %s \n", filename, tag_value);
     return 0;
 }
