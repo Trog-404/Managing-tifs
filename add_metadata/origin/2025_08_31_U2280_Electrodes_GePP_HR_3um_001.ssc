@@ -1,0 +1,34 @@
+[METADATA]
+Acc. Voltage=0.0kV
+Active Mode=10kv_HC_CO_Work2
+Average Count=1
+Average Type=Moving Frame Averaging
+Date=2025/08/31
+Detector=SE2
+FoV=400.0µm
+Focus/WD=7.098mm
+Pixel Dwelltime=2µs
+Point Average=1
+Position U=1.0370mm
+Position V=2.4965mm
+Probe Current=20.5pA
+Project=%UserRoot%Project\New.DSK
+Stage R=0.0000mm
+Stage T=0.0000mm
+Stage X=18.0453mm
+Stage Y=-39.3926mm
+Stage Z=25.6202mm
+Step Size=0.7812µm
+Time=21:25:07
+User=Giubertoni
+Write field=200µm
+[SLOWSCAN]
+Bitmap=2025_08_31 U2280_Electrodes_GePP_HR_3um_001.bmp
+DataZone=Damiano_SEM
+LocalOriginUV=1.036989,2.496478
+LowerLeftUV=0.836989,2.296478
+RotationUV=0
+ScanSignal=A
+ScanSource=SEM
+StageUV=1.036989,2.496478
+UpperRightUV=1.236989,2.696478

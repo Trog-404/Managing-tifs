@@ -65,3 +65,7 @@ env
 
 # Jupyter
 .ipynb_checkpoints
+
+# Output files
+
+add_metadata/outputs/*

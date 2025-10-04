@@ -2,7 +2,7 @@ CC=gcc
 CFLAGS=-fPIC -shared
 LIBNAME=libmetadata_add.so
 
-$(LIBNAME): metadata_add.c
+$(LIBNAME): metadata_add_module.c
 	$(CC) $(CFLAGS) metadata_add_module.c -o $(LIBNAME) -ltiff
 
 clean:
